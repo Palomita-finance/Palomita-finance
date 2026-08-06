@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Palomita 👋
 
-<!--
-**Palomita-finance/Palomita-finance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Accounting student exploring AI-powered financial automation.
+
+Interested in:
+- AI Agent Applications
+- Finance Digitalization
+- Enterprise Automation
+
+
+## Projects
+
+
+### 🤖 AI Finance Digitalization Copilot
+
+AI-powered financial workflow automation system using OCR, LLM and Agent Workflow.
+
+Features:
+- Invoice OCR Recognition
+- AI Financial Audit
+- Automatic Voucher Generation
+- ERP Export
+
+Tech Stack:
+Python · Streamlit · Tencent Cloud OCR · DeepSeek API
+
+
+Repository:
+你的GitHub链接
+
+
+---
+
+
+### 📊 AI Accounting Copilot
+
+LLM-based financial analysis assistant.
+
+Features:
+- Financial Metrics Analysis
+- Abnormal Expense Detection
+- AI-generated Insights
+
+Tech Stack:
+Python · Pandas · DeepSeek API
+
+
+Repository:
+https://github.com/Palomita-finance
+
+
+---
+
+
+## Tech Stack
+
+Languages:
+- Python
+- SQL
+
+
+AI:
+- LLM API
+- Prompt Engineering
+- Agent Workflow
+
+
+Data:
+- Pandas
+- MySQL
+
+
+Tools:
+- Git
+- GitHub
+- Streamlit
+
+
